@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guess the nuber!</string>
+    <string name="behind">Behind</string>
+    <string name="ahead">Ahead!</string>
+    <string name="hit">Hit!</string>
+    <string name="input_value">Input value</string>
+    <string name="play_more">Play more</string>
+    <string name="try_to_guess">Try to guess the number (1 – 100)</string>
+    <string name="error">Error</string>
+    <string name="error_fill">You do not input value!</string>
+    <string name="exit">Exit</string>
+    <string name="error2">Inputing value must be from 1 to 100</string>
+</resources>
