@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="button">Кнопка</string>
+    <string name="btnDel">Уменьшить</string>
+    <string name="btnRestart">Перезапустить</string>
+    <string name="txtView">Привет,мир!</string>
+</resources>

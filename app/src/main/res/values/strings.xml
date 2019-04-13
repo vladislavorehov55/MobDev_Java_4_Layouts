@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="button">Button</string>
+    <string name="btnDel">Delete</string>
+    <string name="btnRestart">Restart</string>
+    <string name="txtView">Hello world!</string>
+</resources>
