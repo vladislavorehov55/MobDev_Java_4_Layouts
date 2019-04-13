@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greetings">Hello from XML</string>
+    <string name="button">Update The TextView</string>
+    <string name="button2"> delete selected item</string>
+    <string name="button3"> delete doubled item</string>
+    <string name="hint">A name</string>
+    <string name="fraze">is learning android development</string>
+    <string name="one">Set in Java</string>
+</resources>

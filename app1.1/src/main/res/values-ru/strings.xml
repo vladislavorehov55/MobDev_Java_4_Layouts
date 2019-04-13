@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="greetings">Привет из XML</string>
+    <string name="button">Обновить текстовое поле </string>
+    <string name="button2"> Удалить выделенный элемент</string>
+    <string name="button3"> Удалить дубликаты</string>
+    <string name="hint">Имя</string>
+    <string name="fraze">изучает разработку под андройд</string>
+    <string name="one">Изменить на Джава</string>
+</resources>
